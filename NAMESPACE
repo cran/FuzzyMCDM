@@ -1,0 +1,3 @@
+import(RankAggreg)
+export(MetaRanking, FuzzyMMOORA, FuzzyTOPSISVector, FuzzyTOPSISLinear, FuzzyVIKOR, FuzzyWASPAS)
+

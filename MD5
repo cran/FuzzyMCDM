@@ -1,0 +1,15 @@
+02769b0e3fc2a4c968eddec00e6aad8f *DESCRIPTION
+a6894b21a04ce5d8424c9745e3f2bfce *NAMESPACE
+0e3db7c446ef6ffef49898882794c3cc *R/FuzzyMMOORA.R
+6af691af03b8cd3e5cbc2ce5caa74271 *R/FuzzyTOPSISLinear.R
+7cfa4e72ff62f05bd395ddc91f200449 *R/FuzzyTOPSISVector.R
+02c601644a9b8e52e51e4c5cba0c0bf4 *R/FuzzyVIKOR.R
+005b4dedff507e589a01a3aabaf6ef79 *R/FuzzyWASPAS.R
+dbeb4b1babf1b152d613caef81462bf0 *R/MetaRanking.R
+8d25956de81910c4f10a7d01606915a3 *R/TheoryOfDominance.R
+806a30e29ecd6f3e04c833e60c05a10b *man/FuzzyMMOORA.Rd
+4589e91a268c8197d0a26cd334bfb0a4 *man/FuzzyTOPSISLinear.Rd
+ddb97ed463b74282cbbfe8be3a51f2ae *man/FuzzyTOPSISVector.Rd
+5ae3b1d96f12c2a271f07f4027862f0e *man/FuzzyVIKOR.Rd
+663c5c3d37105a74064783a217533ac9 *man/FuzzyWASPAS.Rd
+a52f2be8d5a6084f70b1fbdfc98a903a *man/MetaRanking.Rd

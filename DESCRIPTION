@@ -1,0 +1,21 @@
+Package: FuzzyMCDM
+Type: Package
+Title: Multi-Criteria Decision Making Methods for Fuzzy Data
+Version: 1.0
+Date: 2016-09-05
+Author: Blanca A. Ceballos Martin <bceballos@decsai.ugr.es>
+Maintainer: Blanca A. Ceballos Martin <bceballos@decsai.ugr.es>
+Description: Implementation of several MCDM methods for fuzzy data (triangular
+    fuzzy numbers) for decision making problems. The methods that are implemented in
+    this package are Fuzzy TOPSIS (with two normalization procedures), Fuzzy VIKOR,
+    Fuzzy Multi-MOORA and Fuzzy WASPAS. In addition, function MetaRanking() calculates
+    a new ranking from the sum of the rankings calculated, as well as an aggregated ranking.
+Imports: RankAggreg
+License: LGPL (>= 3)
+URL: http://decsai.ugr.es/index.php?p=miembros&id=19909
+LazyData: true
+RoxygenNote: 5.0.1
+NeedsCompilation: no
+Packaged: 2016-09-06 08:12:20 UTC; Modo
+Repository: CRAN
+Date/Publication: 2016-09-06 12:20:46
